@@ -1,8 +1,8 @@
 # HTML and CSS - Module 2
 
-## Lesson Task 2 Question
+## Task 2
 
-In this lesson task we will be adding the contact form to the contact.html page.
+In this task we will be adding the contact form to the contact.html page.
 
 ## Brief
 
