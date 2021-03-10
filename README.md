@@ -2,7 +2,7 @@
 
 ## Task 2
 
-In this task we will be adding the contact form to the contact.html page.
+In this task we will be adding the contact form to the contact.html page. You can just focus on adding the elements in HTML, you don't need to work on layout in CSS as we haven't covered layout yet in the course.
 
 ## Brief
 
