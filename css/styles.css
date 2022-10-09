@@ -31,6 +31,7 @@ header a {
   background-color: #bb0000;
   color: #fff;
   font-size: 1.5em;
+  border-radius: 5px;
 }
 
 .reviews {
